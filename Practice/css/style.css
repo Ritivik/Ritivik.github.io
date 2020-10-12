@@ -11,7 +11,7 @@ body{
   border:0;
 }
 #logo-img{
-  background: url(D:\hp\Documents\Mysites\Ritivik.github.io\Practice\css\Images\Carefree-Restaurant-Assoc-logo-WEB-225px.png) no-repeat;
+  background: url(..\Images\Carefree-Restaurant-Assoc-logo-WEB-225px.png) no-repeat;
   width:225px;
   height:225px;
   margin:10px 15px 10px 0;
